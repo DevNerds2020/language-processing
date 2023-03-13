@@ -1,0 +1,1 @@
+run => bash installPackages.sh in your terminal
